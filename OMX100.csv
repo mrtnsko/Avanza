@@ -1,8 +1,10 @@
 Ticker,Name
 ATCO-B.ST, Atlas Copco AB
 INVE-B.ST, Investor AB
-VOLVF, Volvo AB
-HXGBF, Hexagon AB
+VOLV-B.ST, Volvo AB (Class B)
+VOLV-A.ST, Volvo AB (Class A)
+VOLCAR-B.ST, Volvo Car AB (Class B)
+HXGBY, Hexagon AB
 SPOT, Spotify Technology S.A.
 EVO.ST, Evolution AB
 ASAZF, Assa Abloy AB
@@ -36,7 +38,7 @@ PSNY, PostNord AB
 TREL-B.ST, Trelleborg AB (Class B)
 HOLM-B.ST, Holmen AB (Class B)
 GETI-B.ST, Getinge AB (Class B)
-TEL2-A.ST, Telia Company AB (Class A)
+TEL2-B.ST, Tele2 AB
 SOBI.ST, Swedish Orphan Biovitrum AB
 ADDT-B.ST, Addtech AB (Class B)
 SKA-B.ST, Skanska AB (Class B)
