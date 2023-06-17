@@ -1,16 +1,15 @@
 Ticker,Company
-TSM,Taiwan Semiconductor Manufacturing Company Limited
-INTC,Intel Corporation
-NVDA,NVIDIA Corporation
-AMD,Advanced Micro Devices Inc.
+TSM,Taiwan Semiconductor
+INTC,Intel
+NVDA,NVIDIA
+AMD,Advanced Micro Devices
 QCOM,Qualcomm Incorporated
 AVGO,Broadcom Inc.
-TXN,Texas Instruments Incorporated
-MU,Micron Technology Inc.
-AMAT,Applied Materials Inc.
-NXPI,NXP Semiconductors N.V.
-SSNLF,Samsung Electronics Co. Ltd.
-ASML,ASML Holding N.V.
+TXN,Texas Instruments
+MU,Micron Technology
+AMAT,Applied Materials
+NXPI,NXP Semiconductor
+ASML,ASML Holding
 LRCX,Lam Research Corporation
 WDC,Western Digital Corporation
 KLAC,KLA Corporation
